@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel_managementstm_api", "hotel_managementstm_api\hotel_managementstm_api.csproj", "{240F23D1-755A-4F5F-943C-34CDCDA1BAD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1E6D68DE-75FF-46E8-B89A-1B96EB79DEAD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240F23D1-755A-4F5F-943C-34CDCDA1BAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240F23D1-755A-4F5F-943C-34CDCDA1BAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240F23D1-755A-4F5F-943C-34CDCDA1BAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240F23D1-755A-4F5F-943C-34CDCDA1BAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6240DE9D-41F1-4644-9AF4-5B6B2B08A2A2}
+	EndGlobalSection
+EndGlobal
