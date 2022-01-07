@@ -1,12 +1,12 @@
 import React from "react";
-
 import "../../App.css";
 
-function SignIn() {
+function adminSignin() {
   return (
     <>
       <div className="row">
         <h1>Sign in to your account by filling out the information below.</h1>
+
         <div className="form-inputs">
           <label className="form-label">Username</label>
           <input
@@ -38,4 +38,4 @@ function SignIn() {
   );
 }
 
-export default SignIn;
+export default adminSignin;

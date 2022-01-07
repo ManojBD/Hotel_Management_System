@@ -13,7 +13,7 @@ function Home() {
             <br />
             <br />
 
-            <Link to="adminsignin" className="form-input-btn2">
+            <Link to="/adminsignin" className="form-input-btn2">
               Admin
             </Link>
 
