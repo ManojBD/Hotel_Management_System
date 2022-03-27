@@ -1,10 +1,12 @@
 import React from "react";
 import "../App.css";
 import { Link } from "react-router-dom";
+import Navbar from "../components/Navbar";
 
 function Home() {
   return (
     <>
+      <Navbar />;
       <div className="row">
         <div className="col-md-4"></div>
         <div className="col-md-8">
@@ -13,7 +15,7 @@ function Home() {
             <br />
             <br />
 
-            <Link to="/adminsignin" className="form-input-btn2">
+            <Link to="/signin" className="form-input-btn2">
               Admin
             </Link>
 
